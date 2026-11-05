@@ -1,0 +1,24 @@
+{
+  "short_name": "Utah Chimney",
+  "name": "Utah Chimney & Vent Services",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#1c1c1c",
+  "theme_color": "#d32f2f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Professional chimney sweeping, safety inspection, and high-efficiency dryer vent lint removal across Utah County."
+}
